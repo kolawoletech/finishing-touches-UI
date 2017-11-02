@@ -7,16 +7,11 @@ export const environment = {
   production: false,
   name: 'Development',
   firebaseConfig: {
-    apiKey: "AIzaSyCkwxY5OT8OnjRts8maevQgL5nywFbyvJY",
-    authDomain: "finishing-touches.firebaseapp.com",
-    databaseURL: "https://finishing-touches.firebaseio.com",
-    projectId: "finishing-touches",
-    storageBucket: "",
-    messagingSenderId: "1072491929044"
-		/*apiKey: "YOUR_DEV_API_KEY",
-		 authDomain: "YOUR_DEV_PROJECT_ID.firebaseapp.com",
-		 databaseURL: "https://YOUR_DEV_PROJECT_ID.firebaseio.com",
-		 storageBucket: "YOUR_DEV_PROJECT_ID.appspot.com",
-		 messagingSenderId: "YOUR_DEV_MESSAGE_ID"*/
-  }
+    apiKey: 'AIzaSyCkwxY5OT8OnjRts8maevQgL5nywFbyvJY',
+    authDomain: 'finishing-touches.firebaseapp.com',
+    databaseURL: 'https://finishing-touches.firebaseio.com',
+    projectId: 'finishing-touches',
+    storageBucket: '',
+    messagingSenderId: '1072491929044',
+  },
 };
