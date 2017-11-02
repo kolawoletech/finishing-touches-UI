@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "finishing-touches",
+    "staging": "finishing-touches",
+    "dev": "firebase-sopps"
+  }
+}
